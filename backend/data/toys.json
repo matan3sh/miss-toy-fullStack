@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Fortnite",
+    "price": "99",
+    "type": "Funny",
+    "inStock": true,
+    "img": "https://res.cloudinary.com/dwymjj6rm/image/upload/v1589525431/miss-toy/eovtkm0vwnftnyyrhina.jpg",
+    "createdAt": 1589525436323,
+    "_id": "ugHn"
+  },
+  {
+    "_id": 6543,
+    "name": "Red Dead Redemption 2",
+    "price": 34,
+    "type": "Educational",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71nlEoSrewL._AC_SY741_.jpg",
+    "createdAt": "1976-10-30T08:19:07.861Z",
+    "inStock": false
+  },
+  {
+    "name": "NBA 2K20",
+    "price": 60,
+    "type": "Educational",
+    "inStock": true,
+    "img": "https://touchit.co.il/wp-content/uploads/2020/03/b_1.jpg",
+    "_id": 6544,
+    "createdAt": "1996-08-07T07:23:51.619Z"
+  },
+  {
+    "name": "Just Dance 2020",
+    "price": 27,
+    "type": "Adult",
+    "inStock": false,
+    "img": "https://konimboimages.s3.amazonaws.com/system/photos/3892279/original/a4dcf08dafc61b2e234f97b9c674ad13.jpg",
+    "_id": 6546,
+    "createdAt": "1989-05-01T21:50:41.730Z"
+  },
+  {
+    "_id": 6548,
+    "name": "Battlegrounds",
+    "price": 47,
+    "type": "Funny",
+    "img": "https://konimboimages.s3.amazonaws.com/system/photos/3351362/large/e27ced5d6e62c9cb4dfecfc87492f913.jpg",
+    "createdAt": "1983-01-13T11:14:21.318Z",
+    "inStock": true
+  },
+  {
+    "_id": 6549,
+    "name": "Need For Speed",
+    "price": 80,
+    "type": "Funny",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTNjNWYzODYtY2Q4ZS00MTYwLWE4NTMtZDAzZmNhN2Y3NDE5XkEyXkFqcGdeQXVyMzc1MzYxMjc@._V1_.jpg",
+    "createdAt": "1984-09-08T20:07:37.246Z",
+    "inStock": true
+  },
+  {
+    "name": "NBA 2K17",
+    "price": 55,
+    "type": "Funny",
+    "inStock": false,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91InYCSRcDL.jpg",
+    "_id": 6550,
+    "createdAt": "1980-06-16T22:02:22.319Z"
+  },
+  {
+    "_id": 6551,
+    "name": "NBA 2K19",
+    "price": 35,
+    "type": "Educational",
+    "img": "https://i5.walmartimages.com/asr/98449f63-e4d4-4c24-815b-b36be991f252_1.3e4d150d62f9a51b2a337c5c8541138b.jpeg",
+    "createdAt": "1983-04-24T10:56:47.173Z",
+    "inStock": false
+  },
+  {
+    "_id": 6552,
+    "name": "FIFA 19",
+    "price": 100,
+    "type": "Educational",
+    "img": "https://i5.walmartimages.com/asr/4e2af8af-f501-4d1c-8c75-ca0d43ad81f5_1.b33ce0bdc772e749acc72f3978661018.jpeg",
+    "createdAt": "1997-05-16T11:20:00.396Z",
+    "inStock": false
+  },
+  {
+    "_id": 6554,
+    "name": "FIFA 16",
+    "price": 72,
+    "type": "Educational",
+    "img": "https://s1.thcdn.com/productimg/960/960/11148420-1974310681380596.jpg",
+    "createdAt": "1984-05-12T12:45:21.047Z",
+    "inStock": true
+  },
+  {
+    "_id": 6555,
+    "name": "FIFA 18",
+    "price": 81,
+    "type": "Funny",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91BXYvkM84L._AC_SL1500_.jpg",
+    "createdAt": "1990-10-31T20:49:51.772Z",
+    "inStock": false
+  },
+  {
+    "_id": 6556,
+    "name": "MADDEN NFL 19",
+    "price": 98,
+    "type": "Educational",
+    "img": "https://static-ie.gamestop.ie/images/products/266223/3max.jpg",
+    "createdAt": "1983-02-08T18:37:02.632Z",
+    "inStock": true
+  },
+  {
+    "_id": 6557,
+    "name": "NHL 20",
+    "price": 63,
+    "type": "Educational",
+    "img": "https://pbs.twimg.com/media/D-F80CxWwAAdJPe.jpg",
+    "createdAt": "1970-06-09T13:22:34.994Z",
+    "inStock": true
+  },
+  {
+    "_id": 6558,
+    "name": "Tennis World Tour",
+    "price": 57,
+    "type": "Funny",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81g6h46GlxL._AC_SL1500_.jpg",
+    "createdAt": "1993-05-26T13:25:27.329Z",
+    "inStock": true
+  },
+  {
+    "_id": 6560,
+    "name": "GTA V",
+    "price": 76,
+    "type": "Educational",
+    "img": "https://http2.mlstatic.com/grand-theft-auto-5-gta-v-ps4-nuevo-poster-gratis-D_NQ_NP_644970-MPE29742175024_032019-F.jpg",
+    "createdAt": "1978-05-14T15:49:33.289Z",
+    "inStock": true
+  },
+  {
+    "name": "WWE 2K20",
+    "price": 55,
+    "type": "Adult",
+    "inStock": true,
+    "img": "https://res.cloudinary.com/dwymjj6rm/image/upload/v1589460804/miss-toy/sr2pw97welmt3v8olvqo.jpg",
+    "createdAt": 1589460782640,
+    "_id": 6562
+  },
+  {
+    "name": "NBA 2K20 Legend",
+    "price": 200,
+    "type": "Funny",
+    "inStock": true,
+    "img": "https://res.cloudinary.com/dwymjj6rm/image/upload/v1589468479/miss-toy/jiuubkagqz1ntnbavm72.jpg",
+    "createdAt": 1589468432323,
+    "_id": 6563
+  }
+]

@@ -1,0 +1,60 @@
+.price-border {
+  border: #ccc 1px double !important;
+  box-shadow: 0px 4px 6px -8px rgba(0, 0, 0, 0.25);
+}
+
+.price-border:hover {
+  background-color: $dark-color;
+  color: $light-color;
+}
+
+/* Filter */
+.filter {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  border: #ccc 1px double;
+  height: 40px;
+  padding: 0.4rem 1.3rem;
+  font-size: 1rem;
+  transition: opacity 0.2s ease-in;
+  border-radius: 6px;
+  outline: none;
+  border-radius: 10px;
+  box-shadow: 0px 9px 6px -8px rgba(0, 0, 0, 0.1);
+}
+
+.filter-search {
+  padding: 1rem;
+  border: #ccc 1px dotted;
+  border-radius: 10px;
+  margin: 0.7rem 0;
+}
+
+// Toy Details
+.toy-img {
+  border-radius: 10px;
+  box-shadow: 0px 20px 6px -8px rgba(0, 0, 0, 0.25);
+}
+
+.toy-img-edit {
+  border-radius: 10px;
+  width: 230px;
+  box-shadow: 0px 9px 6px -8px rgba(0, 0, 0, 0.25);
+}
+
+.toy-img {
+  width: 320px;
+  height: 500px;
+}
+
+hr {
+  border-top: 1px dotted var(--light-color);
+}
+
+.toy-img-dashboard {
+  width: 100%;
+  border-radius: 5px;
+}

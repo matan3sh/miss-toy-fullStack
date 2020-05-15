@@ -1,0 +1,5 @@
+// Set background and text color
+@mixin set-background($color) {
+  background-color: $color !important;
+  color: set-text-color($color) !important;
+}
